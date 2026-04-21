@@ -11,7 +11,7 @@ Building real-world applications using AI-assisted tools and improving them thro
 
 <h2>🚀 Projects</h2>
 
-<h3>Piggy Cents Tracker</h3>
+<h3>Kash Tracker</h3>
 <ul>
   <li>Built a personal finance web app to track income, expenses, and savings</li>
   <li>Implemented dashboard with real-time calculations (Net Balance, Monthly Expenses, Total Income)</li>
