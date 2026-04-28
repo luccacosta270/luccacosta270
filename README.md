@@ -45,11 +45,19 @@ Building real-world applications using AI-assisted tools and improving them thro
 <h2>📈 Currently Learning & Building</h2>
 
 <ul>
-  <li>CompTIA A+</li>
-  <li>Windows Server Administration</li>
-  <li>Networking Fundamentals</li>
-  <li>Cloud Computing (AWS / Azure)</li>
-  <li>Cybersecurity Basics</li>
+
+  <li><b>Artificial Intelligence & Automation</b> – building real-world apps using AI-assisted tools and workflows</li>
+
+  <li><b>Microsoft Azure AI (AI-901)</b> – studying core AI concepts, machine learning, NLP, and computer vision</li>
+
+  <li><b>Azure AI Engineer Associate</b> – preparing for advanced AI solutions, model integration, and cloud-based AI systems</li>
+
+  <li><b>AI Automation Projects</b> – creating systems for lead capture, instant responses, and appointment booking</li>
+
+  <li><b>Web App Development</b> – improving applications using React, Git, and real project iteration (Piggy Cents Tracker)</li>
+
+  <li><b>IT Fundamentals</b> – continuing development in networking, system administration, and troubleshooting</li>
+
 </ul>
 
 <hr/>
