@@ -26,12 +26,6 @@ Building real-world applications using AI-assisted tools and improving them thro
 
 <hr/>
 
-<h2>🖥️ Active Directory Home Lab</h2>
-
-<ul>
-  <li><a href="https://github.com/luccacosta270/AD-Home-Lab">Active Directory Home Lab Project</a></li>
-</ul>
-
 <hr/>
 
 <h2>📄 Certifications</h2>
