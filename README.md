@@ -1,5 +1,5 @@
 <h1>Hi, I'm Lucca! <br/>
-IT Student | Building Web Apps & AI Tools | IT Support Professional
+IT Student | AI & Automation Builder | Building Real-World AI Tools
 </h1>
 
 <p>
