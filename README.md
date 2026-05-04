@@ -11,6 +11,23 @@ Building real-world applications using AI-assisted tools and improving them thro
 
 <h2>🚀 Projects</h2>
 
+<h3>AI Lead Response Assistant</h3>
+<ul>
+  <li>Built a full-stack AI tool to analyze customer messages and generate structured business insights</li>
+  <li>Classifies intent, urgency, lead quality, and conversion probability</li>
+  <li>Generates and allows editing of AI-powered replies for real-world business use</li>
+  <li>Built with React, TypeScript, Express, and OpenAI API</li>
+</ul>
+
+<p>
+  <a href="https://github.com/luccacosta270/ai-lead-response-assistant">👉 View Project</a>
+</p>
+
+<hr/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luccacosta270/ai-lead-response-assistant/main/screenshots/output.png" width="700"/>
+</p>
+
 <h3>Kash Tracker</h3>
 <ul>
   <li>Built a personal finance web app to track income, expenses, and savings</li>
