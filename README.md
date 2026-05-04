@@ -25,7 +25,7 @@ Building real-world applications using AI-assisted tools and improving them thro
 
 <hr/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luccacosta270/ai-lead-response-assistant/main/screenshots/output.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/luccacosta270/ai-lead-response-assistant/main/screenshots/output.png" width="600"/>
 </p>
 
 <h3>Kash Tracker</h3>
